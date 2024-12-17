@@ -7,7 +7,7 @@ Modern, sıcak renklerin ve responsive tasarımın hakim olduğu, kullanımı ko
  
 Menu: Kullanımı kolay, ürünleri ve fiyatlandırmaları gösteren bölümdür.
 
-Ürünler : Satışa sunulan diğer hahve çeşitlerini içerir.
+Ürünler : Satışa sunulan diğer kahve çeşitlerini içerir.
 
 Müşteri görüşü: Kahveleri deneyimleyen müşterilerin görüşlerini içerir
 
